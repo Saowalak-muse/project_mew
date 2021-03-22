@@ -1,0 +1,18 @@
+.app-page {
+    background-color:#4b1909 !important;
+    -webkit-background-size: cover !important;
+    -moz-background-size: cover !important;
+    -o-background-size: cover !important;
+    background-size: cover !important;
+    height: 100% !important;
+}
+
+.container {
+    padding: 30px 15px !important;
+}
+
+.center {
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+}
